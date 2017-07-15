@@ -1,6 +1,7 @@
 ![Bootstrap Logo](https://raw.githubusercontent.com/Mikescops/bootstrapbolttheme/master/icon-bootstrap.png)
 ***
 # Bootstrap 4 Templates
+Hello, you will find various bootstrap templates which are availaible at a certain price online (usually in the range of 15-50 dollars) and are often not updated to the latest versions. But here i am remaking them using the latest bootstrap versions totally free of cost. Hence, feel free to contribute or download them to your local machines and use them in your projects.
 ```
 Things I will be using for these templates
 ```
