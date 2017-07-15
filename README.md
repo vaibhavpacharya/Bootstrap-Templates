@@ -1,4 +1,4 @@
-![Bootstrap Logo](https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg)
+![Bootstrap Logo](https://raw.githubusercontent.com/Mikescops/bootstrapbolttheme/master/icon-bootstrap.png)
 ***
 # Bootstrap 4 Templates
 ```
