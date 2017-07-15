@@ -1,0 +1,152 @@
+#header{
+  width: 100%;
+  background-image: url("../header_bg.jpg");
+  height: 500px;
+  margin-top: 0%;
+}
+
+.align{
+  text-align: center;
+  color: white;
+  padding-top: 10%;
+}
+
+.navbar{
+  margin-bottom: 0;
+}
+
+.head{
+  font-size: 50px;
+}
+
+
+
+.col-lg-4{
+  background-color: grey;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.one-third.column{
+  margin-left: 4%;
+}
+
+.one-third.column img{
+  border-radius: 6px;
+  width: 100%;
+  border-style: none;
+}
+
+.head2{
+  font-size: 20px;
+}
+
+h3{
+  text-align: center;
+  letter-spacing: 1;
+  font-size: 40px;
+}
+
+hr {
+  border: none;
+  clear:both;
+  display:block;
+  width: 35%;
+  background-color:grey;
+  height: 2px;
+}
+
+#fourth{
+  background-image: url("../divider1.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+  color: white;
+  }
+.four{
+  padding-top: 105px;
+}
+.pfour{
+  padding-top: 20px;
+  font-size: 25px;
+}
+
+
+#design{
+  background-image: url("../divider2.jpg");
+  background-size: cover;
+  width: 100%;
+  color: white;
+  text-align: center;
+  height: 400px;
+}
+
+.hdesign{
+  padding-top: 150px;
+  margin: 0 auto;
+}
+
+.team{
+  border-radius: 50%;
+}
+
+#hire{
+background-color: #f5f5f5;
+color: white;
+}
+
+.btn{
+  margin: 100px 100px;;
+}
+
+#solve{
+  background-image: url("../divider3.jpg");
+  background-size: cover;
+  width: 100%;
+  text-align: center;
+  color: white;
+  height: 400px;
+}
+
+#EMOTION{
+  background-image: url("../divider4.jpg");
+  background-size: cover;
+  width: 100%;
+  text-align: center;
+  color: white;
+  height: 400px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+#foot{
+  width: 100%;
+  height: auto;
+  padding-bottom: 35px;
+  padding-top: 35px;
+  background-color: #2d2d2d;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #fff;
+}
+
+#foot .fa{
+  margin: 0 5px;
+}
+
+.form-btn{
+  margin: 15px 1px;
+}
+
+.sdesign{
+  padding-top: 150px;
+  margin: 0 auto;
+}
+
+.pdesign{
+  font-size: 35px;
+}
