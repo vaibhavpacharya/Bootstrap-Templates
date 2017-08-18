@@ -51,7 +51,6 @@ Please read 'CONTRIBUTING.md' for details on our code of conduct, and the proces
 ***
 * Vaibhav Acharya
 ***
-***
 # License
 ***
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -72,4 +71,3 @@ Thank you for using or contributing to this repository.
 - **Facebook**		:	https://www.facebook.com/vaibhav.acharya.18
 - [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]() **Twitter**		:	https://twitter.com/IAmVaibhav1993
 - **Github**		:	https://github.com/vaibhavpacharya
-![Bootstrap Logo](https://raw.githubusercontent.com/Mikescops/bootstrapbolttheme/master/icon-bootstrap.png)
